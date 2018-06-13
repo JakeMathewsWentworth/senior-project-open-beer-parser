@@ -1,0 +1,14 @@
+{
+  "name": "open-beer-parser",
+  "version": "1.0.0",
+  "description": "Parses the open-beer-database.json file and uploads the data to a Firestore database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open-beer"
+  ],
+  "author": "Jake Mathews",
+  "license": "ISC"
+}
