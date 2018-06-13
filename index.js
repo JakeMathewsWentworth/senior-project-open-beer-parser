@@ -50,7 +50,7 @@ for (beerIndex in beerdb) {
         console.log("Invalid beer ID", beer.id);
         invalidBeerCount++;
     } else {
-        beers.doc(beer.id).set(beer);
+        beers.doc(beer.id).set(finalBeer);
         beerCount++;
     }
 

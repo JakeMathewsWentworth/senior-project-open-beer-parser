@@ -68,3 +68,6 @@ typings/
 
 # IntelliJ
 .idea/
+
+# My programs
+upload.sh
