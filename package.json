@@ -10,5 +10,9 @@
     "open-beer"
   ],
   "author": "Jake Mathews",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^0.14.1",
+    "minimist": "^1.2.0"
+  }
 }
